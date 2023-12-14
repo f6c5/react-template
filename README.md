@@ -36,11 +36,10 @@ cd your_project_name
 
 # Change Project Name
 
-### package.json
-
-```json
-  "name": "your_project_name"
-```
+> **package.json**
+> ```json
+>   "name": "your_project_name"
+> ```
 
 # İnstall Dependencies & Run
 
